@@ -1,0 +1,46 @@
+input {
+  width: 100%;
+  background: #fcfcfc;
+  border: 1px solid #e4e4e4;
+  border-radius: 12px;
+  margin-top: 4px;
+  margin-bottom: 16px;
+  padding: 12px 8px;
+  color: #808191;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+input:focus {
+  outline: none;
+  border: 1px solid #808191;
+}
+
+label {
+  width: 100%;
+  text-align: left;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: #11142d;
+}
+
+button {
+  width: 100%;
+  padding: 16px;
+  background-color: #475be8;
+  border: 1px solid #e4e4e4;
+  border-radius: 12px;
+  margin-top: 4px;
+  margin-bottom: 16px;
+  color: #e4e4e4;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  cursor: pointer;
+}
